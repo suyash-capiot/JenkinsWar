@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Successfully!!!!!!!!</h2>
+<h2>Jenkins Deployed Successfully!!!!!!!!</h2>
 </body>
 </html>
